@@ -118,7 +118,7 @@ The ~~`<input>`~~ input element is a void element, so it does not need a closing
 </input>
 ```
 
-Other examples include the image element `<img>`, line break element `<br>`, and metadata element `<meta>`.
+Other examples include the image element ~~`<img>`~~, line break element ~~`<br>`~~, and metadata element ~~`<meta>`~~.
 
 ## ~~The `<html>`, `<head>`, and `<body>` Elements~~
 
@@ -194,7 +194,7 @@ inside a ~~`<form>`~~ form element
 </form>
 ```
 
-inside the ~~`<body>`~~ body element.
+and inside the ~~`<body>`~~ body element.
 
 ```html
 <body>
@@ -338,7 +338,7 @@ For example:
 
 Here, the ~~`<form>`~~ form element contains the elements that make up our login form.
 
-The ~~`<label>`~~ label elements describe what information the user should enter, the `<input>` elements allow the user to enter information, and the `<button>` allows the user to perform an action.
+The ~~`<label>`~~ label elements describe what information the user should enter, the ~~`<input>`~~ input elements allow the user to enter information, and the ~~`<button>`~~ button element allows the user to perform an action.
 
 ### ~~Form `action` and `method`~~
 
