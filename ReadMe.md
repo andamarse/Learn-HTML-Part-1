@@ -124,7 +124,7 @@ Other examples include the image element ~~`<img>`~~, line break element ~~`<br>
 
 The HTML document starts with the ~~`<html>`~~ `html` element, which is the root element.
 
-Inside the ~~`<html>`~~ `html` element, we normally have two main elements:
+Inside the ~~`<html>`~~ `html` element, we normally have two main elements, the head element and the body element:
 
 ```html
 <html>
