@@ -36,7 +36,7 @@ An HTML document would normally start with a basic template ~~such as~~:
 </html>
 ```
 
-In VS Code, you can generate this template inside an HTML file by typing an exclamation mark (`!`) and pressing **Enter**.
+In VS Code, you can generate this template inside an HTML file by typing an exclamation mark ~~(`!`)~~ and pressing **Enter**.
 
 ## ~~Understanding the Template~~
 
